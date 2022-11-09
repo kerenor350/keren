@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
+
+int x = 1;
+while (x < 5 ) {
+    system.out.println(x);
+    x++;
+     // this will make the iteration to repeat itself as long as the the rule is true for the function
+
+
+     public class Main {
+     public static void main(string [] args {
+     System.out.println("Start!")
+     for (int i = 1; i <= 5; i++) {
+     System.out.println(i);
+     }
+     ststem.out.println("Done!");
+
+     }
+     }
+
+     "do while'"
+     a program for ATM
+     i WANT THE USER TO INPUT HIS PASSWORD
+     When the user writes his password
+
+     System.out.println ("Enter the grase (0-100)";
+     scanncer scanner =new scanner(System.in);
+     int grade = Scanner.nextInt();
+
+     int grade;
+     do{
+     system.out.println("Enter a valid grade (0-100) " );
+     Scanner scanner = new Scanner (System.in);
+     grade = scanner.net,int();
+     } while (grade < 1
+
+     print - writes in the same line
+     prinln - writes in a new line.
+
+
+
+     for each- haven't studied yet
+
+
+
+     for (int i =0; j<5; j++
+
+     System.out.println ("Start");
+
+     int num1;
+     int num2
+
+     for (int x=0;
+
+          System.out.println("Done!")
+
+
+
+
+
+
+
